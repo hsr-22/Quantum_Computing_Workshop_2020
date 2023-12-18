@@ -1,4 +1,5 @@
 # Quantum Computing Workshop 2020
+## Forked for learning purposes (*as on 18th December 2023*)
 
 Welcome to our Quantum Computing workshop. The main aim of this workshop will be to introduce some concepts of quantum computing and implement them using **Qiskit**, an open source python library developed by IBM for simulation of quantum computers. This is a very fun and useful library for anyone wanting to run quantum computing workshops and it is also quite accessible.
 
